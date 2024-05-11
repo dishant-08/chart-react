@@ -56,8 +56,10 @@ function App() {
   }, [products]);
 
   return (
-    <div>
-      <Bar data={categoryData} />
+    <div className=" w-screen flex justify-center items-center ">
+      <div className=" w-2/3 ">
+        <Bar data={categoryData} />
+      </div>
     </div>
   );
 }
