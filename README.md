@@ -3,6 +3,11 @@
 
 This is a simple React application that fetches product data from a mock API and displays statistics about the products by category using a Bar chart.
 
+## Screenshots
+
+![image](https://github.com/dishant-08/chart-react/assets/60565337/5c642492-394a-4b9a-b73b-4669f5fc892d)
+
+
 ## Getting Started
 
 To get a local copy up and running, follow these steps:
